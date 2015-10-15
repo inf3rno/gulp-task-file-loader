@@ -1,0 +1,30 @@
+{
+  "name": "gulp-task-file-loader",
+  "version": "1.0.0",
+  "description": "gulp-task-file-loader - Loading gulp tasks from module files and using JSON to describe dependencies.",
+  "keywords": [
+    "gulp",
+    "task",
+    "dependency",
+    "loader"
+  ],
+  "license": "MIT",
+  "author": "László Lajos Jánszky",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/inf3rno/gulp-task-file-loader"
+  },
+  "bugs": {
+    "url": "https://github.com/inf3rno/gulp-task-file-loader/issues"
+  },
+  "main": "index.js",
+  "scripts": {
+  },
+  "dependencies": {
+    "gulp": "latest",
+    "glob": "latest"
+  },
+  "devDependencies": {
+    "del": "latest"
+  }
+}
